@@ -29,6 +29,9 @@ Este script en Java está diseñado para organizar archivos en un directorio esp
 5. **Resultado:**
     - El script imprimirá la ruta principal, la lista de archivos y directorios en el directorio especificado, los tipos de extensiones presentes y procederá a crear carpetas y mover archivos.
 
+## Video Ilustrativo
+[![](http://img.youtube.com/vi/2C94aymlr1E/0.jpg)](https://www.youtube.com/watch?v=2C94aymlr1E)
+
 ## Detalles del Código
 
 - La lógica principal se encuentra en la clase `Orden`, que encapsula las operaciones relacionadas con la organización de archivos.
